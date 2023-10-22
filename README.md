@@ -4,7 +4,7 @@ For the datapack to work correctly, **you need to install [JabkaCore](https://mo
 # Your origins: Classic
 This datapack adds origins that change your gameplay to the core. How about surviving in water and not being able to go on land for long? Or survive in the Nether and be resistant to lava, but take damage from water? Each origin is unique and has its own peculiarities and its own game style. What makes an origin unique is that you can choose it only once and you won't be able to change it, so you need to think carefully before choosing a origin.
 
-![all origins](https://cdn.modrinth.com/data/QzIUHBDk/images/0b579460d7e15e92fc1682165077938c74bc4f13.gif)
+![all origins](https://cdn.modrinth.com/data/QzIUHBDk/images/a17e1f4adaed7b95d56b308b3a8b327d562481a5.gif)
 
 This is a reworked [Your origins datapack](https://modrinth.com/datapack/your-origins)
 
